@@ -1,0 +1,38 @@
+body{
+background: #000000;
+color: #FFFFFF;
+}
+.jumbotron{
+  background: transparent;
+
+}
+img{
+  width: 100%;
+}
+
+nav{
+ font-size: 18px;
+ background: #FFFFFF;
+ border-radius: 5px;
+ text-shadow: 2px 3px 3px #808080;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    background:#2C3BE0;
+    width: 100%;
+    font-size:25px;
+    color: #FFFFFF;
+}
+.thumbnail{
+  background: #545454;
+  border: #000000 2px solid;
+
+}
+.caption h1,h3 {
+  color: #FFFFFF;
+}
+#deslizar{
+      color: #000000;
+}
